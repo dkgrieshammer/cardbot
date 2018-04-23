@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    opacity:0.99;
+    background-color: #efefef;
+}
+header {
+    background-color: #324863;
+    height: 60px;
+    color: #fefefe;
+    font-family: 'Lalezar', cursive;
+}
+header h1 {
+    margin: 0;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 10px;
+    letter-spacing: 0.1em;
+}
+
+table {
+    margin: 20px auto 0 auto;
+}
+
+td {
+    width: 100px;
+    text-align: center;
+}
+button {
+    height: 30px;
+    width: 100px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+button:hover {
+    background-color: #CCC;
+}
